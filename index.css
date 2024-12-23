@@ -1,8 +1,18 @@
 html,
 body {
-    margin: 0;
+    margin: 30px 0 0 0;
     padding: 0;
     font-family: "Source Sans 3", serif;
+    
+}
+
+.phone-border {
+    width: 375px; /* Width of the phone screen */
+    height: 667px; /* Height of the phone screen */
+    border: 8px solid black; /* Outer border */
+    border-radius: 36px; /* Rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Shadow for 3D effect */
+    margin: 0 auto; /* Center the phone screen */
 }
 
 /* Header */
@@ -88,6 +98,10 @@ header {
     justify-content: space-between;
     width: 104.34px;
     height: 22.13px;
+}
+
+.icons-container img:hover {
+    opacity: 0.5;
 }
 
 .interaction-text {
