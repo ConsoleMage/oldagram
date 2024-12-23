@@ -6,14 +6,14 @@ body {
     
 }
 
-.phone-border {
-    width: 375px; /* Width of the phone screen */
-    height: 667px; /* Height of the phone screen */
-    border: 8px solid black; /* Outer border */
-    border-radius: 36px; /* Rounded corners */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Shadow for 3D effect */
-    margin: 0 auto; /* Center the phone screen */
-}
+/* .phone-border {
+    width: 375px;
+    height: 667px;
+    border: 8px solid black; 
+    border-radius: 36px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    margin: 0 auto;
+} */
 
 /* Header */
 
