@@ -1,5 +1,82 @@
-html, body {
+html,
+body {
     margin: 0;
     padding: 0;
+    font-family: "Source Sans 3", serif;
 }
 
+header {
+    margin: 0 auto;
+    border-bottom: 1px solid #C6C6C6;
+    width: 375px;
+    height: 67px;
+    border: 1px solid red;
+}
+
+.logo {
+    padding-top: 4px;
+    padding-left: 15px;
+    width: 127px;
+}
+
+.your-avatar {
+    float: right;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-right: 16px;
+    width: 34px;
+    height: 34px;
+    border: 1px solid black;
+}
+
+.user-avatar {
+    border-radius: 50%;
+}
+
+.user-info {
+    display: flex;
+    margin: 10px auto 0px;
+    width: 348px;
+    height: 34px;
+}
+
+.user-text {
+    margin: 0 10px 0;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+
+.user-full-name {
+    margin: 2px auto 0;
+    width: 307px;
+    height: 16px;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 16.34px;
+}
+
+.location-text {
+    margin: 0;
+    width: 307px;
+    height: 15px;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15.08px;
+}
+
+.post-image {
+    display: block;
+    margin: 10px auto 0;
+    width: 375px;
+    height: 375px;
+    border: 1px solid red;
+}
+
+
+.user-interaction {
+    margin: 0 auto;
+    width: 346px;
+    height: 78px;
+border: 1px solid black;
+}
