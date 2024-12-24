@@ -8,7 +8,7 @@ body {
 .phone-border {
     width: 375px;
     height: 667px;
-    border: 2px solid black; 
+    border: 2px solid black;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     margin: 0 auto;
 }
