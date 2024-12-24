@@ -2,7 +2,7 @@
 
 An Instagram clone solo project, done from scratch on Scrimba :D
 
-![Untitled](https://github.com/user-attachments/assets/48125be1-c7bd-42c6-80d6-a0eb14f339ae)
+![Untitled](https://github.com/user-attachments/assets/aeac4050-63d8-4de7-ac01-eb126f98e356)
 
 ### DEMO
 https://dreamy-bienenstitch-dab338.netlify.app/
