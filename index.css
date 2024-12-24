@@ -16,23 +16,21 @@ body {
 /* Header */
 
 header {
-    margin: 0 auto;
+    display: flex;
+    align-items: center;
     border-bottom: 1px solid #C6C6C6;
     width: 375px;
     height: 67px;
 }
 
 .logo {
-    padding-top: 4px;
-    padding-left: 15px;
+    margin-left: 15px;
     width: 127px;
 }
 
 .your-avatar {
-    float: right;
     border-radius: 50%;
-    margin-top: 16px;
-    margin-right: 16px;
+    margin-left: 183px;
     width: 34px;
     height: 34px;
 }
